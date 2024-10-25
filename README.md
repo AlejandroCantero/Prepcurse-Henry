@@ -1,2 +1,1 @@
-# Prepcurse-Henry
-Esto es un repositorio del modulo 2 de prepcurse Henry
+Este es un repositorio creado para clonarlo de github a mi computadora
